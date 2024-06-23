@@ -341,4 +341,3 @@ document
     alert("Письмо отправлено!");
     document.getElementById("emailModal").style.display = "none";
   });
-
